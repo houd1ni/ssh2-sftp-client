@@ -70,7 +70,7 @@ This is the fork of https://github.com/theophilusx/ssh2-sftp-client/ because of 
 TL;DR: Current maintainer refused to fix the critical issue even when I have guided him to one line fix in npm published version.
 Hence I need control of npm published package to fix the critical issue.
 
-This could be obtained by running `npm i ssh2-sftp-client-ok`
+This could be obtained by running `npm i ssh2-sftp-client-ok` and add types by `npm i -D @types/ssh2-sftp-client-ok@npm:@types/ssh2-sftp-client`.
 
 ---
 
