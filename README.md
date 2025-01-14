@@ -66,6 +66,8 @@
 
 # Overview
 
+This is the fork of https://github.com/theophilusx/ssh2-sftp-client/ because of https://github.com/theophilusx/ssh2-sftp-client/issues/564
+
 This package provides the class SftpClient, an SFTP client for node.js. It is a promise based decorator class around the excellent [SSH2](https://github.com/mscdex/ssh2) package, which provides a pure node Javascript event based ssh2 implementation.
 
 Documentation on the methods and available options in the underlying modules can be found on the [SSH2](https://github.com/mscdex/ssh2) project pages. As the ssh2-sftp-client package is just a wrapper around the `ssh2` module, you will find lots of useful information, tips and examples in the `ssh2` repository.
