@@ -1,5 +1,5 @@
 {
-  "name": "ssh2-sftp-client",
+  "name": "ssh2-sftp-client-ok",
   "version": "11.0.0",
   "description": "ssh2 sftp client for node",
   "main": "src/index.js",
@@ -20,7 +20,7 @@
   "engines": {
     "node": ">=18.20.4"
   },
-  "author": "Tim Cross",
+  "author": "jyu213, Tim Cross et al.",
   "email": "theophilusx@gmail.com",
   "funding": {
     "type": "individual",
